@@ -17,4 +17,4 @@ If you are new to Jupyter and Python, read the [download instructions](https://n
 You can view the Jupyter notebooks on the nbviewer by clicking on the following link, [https://nbviewer.jupyter.org/github/DanChitwood/HRT841_2020/tree/master/](https://nbviewer.jupyter.org/github/DanChitwood/HRT841_2020/tree/master/)
 
 You can ***interact*** with the Jupyter notebooks in an executable environment using mybinder, by clinking on the icon
-[![Binder](https://mybinder.org/v2/gh/DanChitwood/HRT841_2020/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanChitwood/HRT841_2020/master)
