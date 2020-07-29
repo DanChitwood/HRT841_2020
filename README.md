@@ -2,7 +2,7 @@
 
 # Plants & Python
 
-**Welcome to HRT891A: Foundation in Computational Plant Science!**
+**Welcome to HRT841: Foundation in Computational and Plant Science!**
 
 This course brings together plant biologists and data scientists to learn fundamental concepts in plant science using a computational mindset.
 
